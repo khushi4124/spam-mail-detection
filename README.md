@@ -6,6 +6,8 @@ This project implements a robust machine learning system to classify SMS message
 
 The objective of this project is to develop a predictive model that accurately filters out harmful spam messages while ensuring legitimate communications are never misclassified. This is achieved by analyzing both the semantic content of the messages and their structural patterns.
 
+**Dataset Used**: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 **Approach**
 
 The project follows a comprehensive data science workflow, incorporating advanced feature engineering and a hybrid modeling strategy:
