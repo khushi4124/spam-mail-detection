@@ -1,4 +1,4 @@
-**spam-mail-detection**
+**spam-sms-detection**
 
 This project implements a robust machine learning system to classify SMS messages as either Ham (legitimate) or Spam. By combining traditional text vectorization with custom-engineered behavioral features, the model achieves high accuracy and reliability.
 
